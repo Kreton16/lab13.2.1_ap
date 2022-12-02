@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\OneDrive\Робочий стіл\Student\PR13.2.1\Source.cpp(19,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\OneDrive\Робочий стіл\Student\PR13.2.1\Source.cpp(23,3): warning C4101: 'fsqrx_z': unreferenced local variable
+C:\Users\User\OneDrive\Робочий стіл\Student\PR13.2.1\Source.cpp(22,3): warning C4101: 'fsqrx_y': unreferenced local variable
+C:\Users\User\OneDrive\Робочий стіл\Student\PR13.2.1\Source.cpp(27,3): warning C4101: 'maxim': unreferenced local variable
+  PR13.2.1.vcxproj -> C:\Users\User\OneDrive\Робочий стіл\Student\PR13.2.1\x64\Debug\PR13.2.1.exe
